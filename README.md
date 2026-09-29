@@ -1,4 +1,5 @@
-# crimes-demographics-analysis
+# Crime and Demographics in Tower Hamlets
+S. Usmani | May 2026
 # Overview
 This project explores patterns in crime and stop-and-search activity in Tower Hamlets, London, using publicly available data from Police.uk.\
 \
