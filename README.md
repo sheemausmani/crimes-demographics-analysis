@@ -12,7 +12,7 @@ Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/ve
 The datasets used in this project remain subject to their original licensing terms.
 \
 Data disclaimer: The analysis is based on publicly available data.police.uk data. The analysis is my own and is not produced, verified or endorsed by data.police.uk or any police force. The underlying data may contain limitations and should be interpreted in accordance with the source's published information and quality guidance.
-\
+
 ### Licencing of original works:
 Analysis code: MIT License\
 Report and original analysis: [CC by 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)\
