@@ -26,10 +26,10 @@ The datasets are subject to their original licences. See DATA_LICENSES.md for li
 - Jupyter Notebook
 
 # Repository Contents
-> `notebooks/` — data cleaning and analysis notebooks
-> `data/` — datasets used in the analysis
-> `report/` — full project report
-> `DATA_LICENSES.md` — data licensing and attribution
+> `notebooks/` — data cleaning and analysis notebooks\
+> `data/` — datasets used in the analysis\
+> `report/` — full project report\
+> `DATA_LICENSES.md` — data licensing and attribution\
 > `LICENSE` — MIT licence for the original source code
 
 # Report
